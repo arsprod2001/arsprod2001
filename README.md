@@ -9,7 +9,7 @@
 ## 🔧 Compétences techniques
 
 - **Langages** : JavaScript, Python, C, C++, Java, PHP, Visual Basic, R  
-- **Frameworks & outils** : React.js, React Native, Node.js, Django, Next.js, Tailwind CSS  
+- **Frameworks & outils** : React.js, React Native, Node.js, Next.js, Tailwind CSS  
 - **Bases de données** : PostgreSQL, MySQL, MongoDB, Oracle  
 - **Outils** : Git & GitHub, Docker, Linux (Ubuntu, Debian), Adobe Photoshop & Illustrator, After Effects, Premiere Pro  
 ---
@@ -26,7 +26,6 @@
 ## 📫 Me contacter
 
 - 📍 Toronto, Canada  
-- 📞 +1 (437) 298-1700 
 - ✉️ amadou.sow@monboreal.ca
 
 ---
