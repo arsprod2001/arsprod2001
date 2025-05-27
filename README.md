@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Amadou Sow
 
-<!--
-**arsprod2001/arsprod2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Développeur Full Stack** passionné par les technologies web & mobile, les systèmes Linux et les projets à fort impact.
 
-Here are some ideas to get you started:
+🚀 Je conçois des solutions innovantes mêlant design, performance et accessibilité. Mon objectif : transformer des idées ambitieuses en produits concrets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Compétences techniques
+
+- **Langages** : JavaScript, Python, C, C++, Java, PHP, Visual Basic, R  
+- **Frameworks & outils** : React.js, React Native, Node.js, Django, Next.js, Tailwind CSS  
+- **Bases de données** : PostgreSQL, MySQL, MongoDB, Oracle  
+- **Outils** : Git & GitHub, Docker, Linux (Ubuntu, Debian), Adobe Photoshop & Illustrator, After Effects, Premiere Pro  
+---
+
+
+## 💼 Objectifs
+
+- Créer ou rejoindre des projets à fort potentiel dans la tech
+- Collaborer avec des talents et entreprises engagées
+- Apporter des solutions concrètes aux besoins locaux à travers la technologie
+
+---
+
+## 📫 Me contacter
+
+- 📍 Toronto, Canada  
+- 📞 +1 (437) 298-1700 
+- ✉️ amadou.sow@monboreal.ca
+
+---
