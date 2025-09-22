@@ -26,6 +26,6 @@
 ## 📫 Me contacter
 
 - 📍 Toronto, Canada  
-- ✉️ amadou.sow@monboreal.ca
+- ✉️ contact@amadousow.dev
 
 ---
