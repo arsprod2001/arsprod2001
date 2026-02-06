@@ -1,4 +1,6 @@
-<h1 align="center">💻 Software Engineer</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻-Software%20Engineer-6C63FF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Software Engineer">
+</p>
 
 
 <p align="center">
