@@ -27,10 +27,11 @@ I’m a passionate **Software Engineer** crafting **scalable web & mobile applic
 
 I thrive at the intersection of **complex systems** and **user-friendly experiences**, with expertise in:  
 
-- 🌐 Full-Stack Development  
-- ☁️ Cloud & DevOps  
-- 💾 Databases & Data Management  
-- 🔧 Networking & System Administration  
+- ![Full-Stack](https://img.shields.io/badge/🌐-Full--Stack-4A90E2?style=for-the-badge&logo=react&logoColor=white) Full-Stack Development  
+- ![Cloud](https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-0077B5?style=for-the-badge&logo=aws&logoColor=white) Cloud & DevOps  
+- ![Databases](https://img.shields.io/badge/💾-Databases-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white) Databases & Data Management  
+- ![Networking](https://img.shields.io/badge/🔧-Networking-00D4FF?style=for-the-badge&logo=linux&logoColor=white) Networking & System Administration
+
 
 ---
 
