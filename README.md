@@ -3,18 +3,7 @@
 </p>
 
 
-<p align="center">
-  <a href="https://amadousow.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-amadousow.dev-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/amadou-sow-8390a124a/" target="_blank">
-    <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/arsprod2001" target="_blank">
-    <img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/📍-Toronto-FF6F61?style=for-the-badge" alt="Location">
-</p>
+
 
 
 <p align="center">
@@ -27,6 +16,7 @@
   <a href="https://github.com/arsprod2001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-arsprod2001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+    <img src="https://img.shields.io/badge/📍-Toronto-FF6F61?style=for-the-badge" alt="Location">
 </p>
 
 ---
