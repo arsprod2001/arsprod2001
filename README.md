@@ -1,16 +1,19 @@
 <p align="center">
-  <strong>Software Engineer</strong>
+  <span style="font-size:3.5rem; font-weight:900; color:#6C63FF;">💻 Software</span> 
+  <span style="font-size:3.5rem; font-weight:900; color:#00D4FF;">Engineer</span>
 </p>
+
 
 <p align="center">
   Toronto · <a href="https://amadousow.dev">amadousow.dev</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Builder-black?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Developer%20Tooling-black?style=flat" />
-  <img src="https://img.shields.io/badge/Tech-Python%20|%20JavaScript%20|%20Node.js-black?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20Source-Builder-black?style=flat-square&logo=github&logoColor=white" alt="Open Source">
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-black?style=flat-square&logo=dev.to&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Tech-Python%20|%20JavaScript%20|%20Node.js-black?style=flat-square&logo=python&logoColor=white" alt="Tech Stack">
 </p>
+
 
 ---
 
@@ -24,14 +27,6 @@ I enjoy bridging the gap between **complex systems** and **user-friendly experie
 - Cloud & DevOps 
 - Databases 
 - Networking & System Administration 
-
----
-
-## 🚀 Recent Projects
-
-- **Universal Financial Dashboard** – Real-time KPI tracking, automated reports, and robust backend APIs.  
-- **Eventick** – Modern ticketing platform with mobile QR-code validation and real-time event management.  
-- **Novaflow CLI** – Interactive developer toolkit for Docker, Git, NPM, monitoring, and more.  
 
 ---
 
