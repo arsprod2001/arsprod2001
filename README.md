@@ -1,36 +1,11 @@
 <p align="center">
-  <span style="font-size:3.5rem; font-weight:900; color:#6C63FF;">💻 Software</span> 
-  <span style="font-size:3.5rem; font-weight:900; color:#00D4FF;">Engineer</span>
-</p>
-
-
-<p align="center">
-  Toronto · <a href="https://amadousow.dev">amadousow.dev</a>
+  <span style="font-size:4rem; font-weight:900; background: linear-gradient(90deg, #6C63FF, #00D4FF); -webkit-background-clip: text; color: transparent;">💻 Software Engineer</span>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Builder-black?style=flat-square&logo=github&logoColor=white" alt="Open Source">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-black?style=flat-square&logo=dev.to&logoColor=white" alt="Focus">
-  <img src="https://img.shields.io/badge/Tech-Python%20|%20JavaScript%20|%20Node.js-black?style=flat-square&logo=python&logoColor=white" alt="Tech Stack">
+  Toronto · <a href="https://amadousow.dev" target="_blank">amadousow.dev</a>
 </p>
 
-
----
-
-## 💡 About Me
-
-I’m a passionate Software Engineer with experience building **scalable web and mobile applications**, managing cloud infrastructure, and developing **developer-centric tools**. I focus on crafting solutions that are efficient, robust, and delightful to use.  
-
-I enjoy bridging the gap between **complex systems** and **user-friendly experiences**, with expertise in:  
-
-- Full-Stack Development 
-- Cloud & DevOps 
-- Databases 
-- Networking & System Administration 
-
----
-
-## 📫 Connect with Me
 <p align="center">
   <a href="https://amadousow.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-amadousow.dev-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
@@ -42,6 +17,19 @@ I enjoy bridging the gap between **complex systems** and **user-friendly experie
     <img src="https://img.shields.io/badge/GitHub-arsprod2001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
+---
+
+## 💡 About Me
+
+I’m a passionate **Software Engineer** crafting **scalable web & mobile applications**, managing **cloud infrastructure**, and building **developer-centric tools**.  
+
+I thrive at the intersection of **complex systems** and **user-friendly experiences**, with expertise in:  
+
+- 🌐 Full-Stack Development  
+- ☁️ Cloud & DevOps  
+- 💾 Databases & Data Management  
+- 🔧 Networking & System Administration  
 
 ---
 
