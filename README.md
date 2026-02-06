@@ -1,6 +1,5 @@
-<p align="center">
-  <span style="font-size:4rem; font-weight:900; background: linear-gradient(90deg, #6C63FF, #00D4FF); -webkit-background-clip: text; color: transparent;">💻 Software Engineer</span>
-</p>
+<h1 align="center">💻 Software Engineer</h1>
+
 
 <p align="center">
   Toronto · <a href="https://amadousow.dev" target="_blank">amadousow.dev</a>
