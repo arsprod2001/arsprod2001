@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="avatar.png" width="160" alt="Amadou Sow Avatar"/>
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/💻-Software%20Engineer-6C63FF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Software Engineer">
 </p>
 
