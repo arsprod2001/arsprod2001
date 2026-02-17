@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar.png" width="160" alt="Amadou Sow Avatar"/>
+  <img src="avatars.png" width="200" alt="Amadou Sow Avatar"/>
 </p>
 
 
